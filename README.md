@@ -1,6 +1,8 @@
 # NodePay
 > A tool for earning points based on the nodeapy extended protocol.
 
+## [Telegram Group ✈️](https://t.me/+iergzCgtkw9iZWFl)
+
 ## Use 🚗
 > copy nodepay bin file and accounts.txt file to your server
 
