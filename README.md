@@ -8,6 +8,8 @@
 > copy nodepay bin file and accounts.txt file to your server
 
 ### Cookie Fetch
+> If you find cookie extraction troublesome you can try our paid service, please contact us on telegram.
+
 #### 1、Login your nodepay account
 #### 2、Preparing to extract cookies
 ![img_2.png](img_2.png)
