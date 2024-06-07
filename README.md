@@ -5,7 +5,7 @@
 > You can communicate via telegram.
 
 ## Use 🚗
-> copy nodepay bin file and accounts.txt file to your server
+> copy nodepay bin file cookies.txt proxy.txt config.yml files to your server
 
 ### Cookie Fetch
 > If you find cookie extraction troublesome you can try our paid service, please contact us on telegram.
@@ -15,12 +15,13 @@
 ![img_2.png](img_2.png)
 ![img_3.png](img_3.png)
 ![img_4.png](img_4.png)
-#### 3、Copy cookie to accounts.txt
+#### 3、Copy cookie to cookies.txt
+#### 4、Read config.yml to select configuration items
 
 
 ### 1、Linux
 ``` bash
-chmod 777 nodepay
+chmod 755 nodepay
 ./nodepay
 ```
 
