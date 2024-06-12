@@ -11,11 +11,12 @@
 > If you find cookie extraction troublesome you can try our paid service, please contact us on telegram.
 
 #### 1、Login your nodepay account
-#### 2、Preparing to extract cookies
+#### 2、Preparing to extract cookies and uid
 ![img_2.png](img_2.png)
 ![img_3.png](img_3.png)
 ![img_4.png](img_4.png)
-#### 3、Copy cookie to cookies.txt
+![img_5.png](img_5.png)
+#### 3、Copy cookie and uid to cookies.txt
 #### 4、Read config.yml to select configuration items
 
 
