@@ -1,5 +1,5 @@
   # Connection failed retry times
-  retry: 3
+  retry: -1
   # oto means one-to-one. If you have two accounts with two Proxy Ip then you will have two tasks that need to be performed
   # mtm means many-to-many. If you have two accounts with two Proxy Ip then you will have four tasks that need to be performed
   # If you don't have Proxy Ip, you can select oto mode
