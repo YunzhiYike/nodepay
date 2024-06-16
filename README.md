@@ -4,6 +4,9 @@
 ## [Telegram Group ✈️](https://t.me/+iergzCgtkw9iZWFl)
 > You can communicate via telegram.
 
+## Instructional Video 🎬
+https://youtu.be/Dgq8ExLBOBE
+
 ## Use 🚗
 > copy nodepay bin file cookies.txt proxy.txt config.yml files to your server
 
