@@ -1,9 +1,5 @@
-  # Connection failed retry times
-  retry: -1
-  # oto means one-to-one. If you have two accounts with two Proxy Ip then you will have two tasks that need to be performed
-  # mtm means many-to-many. If you have two accounts with two Proxy Ip then you will have four tasks that need to be performed
-  # If you don't have Proxy Ip, you can select oto mode
-  mode: "mtm"
-  # Setting it to true will display the points every 5 minutes.
-  # Note: Points requests go through the local network, not the proxy network.
-  display_points: true
+# Calculation formula: number of cookies * nums equals number of tasks
+nums: 10
+# proxy config; Within 300G 1.5U/G Above 300G 1.2U/G; For more offers contact: wuaiyiyun2022@163.com
+proxy_uname: ""
+proxy_pwd: ""

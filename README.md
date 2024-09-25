@@ -10,6 +10,9 @@ https://youtu.be/Dgq8ExLBOBE
 ## Use 🚗
 > copy nodepay bin file cookies.txt proxy.txt config.yml files to your server
 
+## Buy Proxy Ips
+> ⚠️⚠️⚠️ The tool must use a proxy IP, which you will need to contact us to purchase `Within 300G 1.5U/G Above 300G 1.2U/G; For more offers contact: wuaiyiyun2022@163.com`
+
 ### Cookie Fetch
 > If you find cookie extraction troublesome you can try our paid service, please contact us on telegram.
 
